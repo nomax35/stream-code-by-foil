@@ -32,7 +32,7 @@ client.on('ready', () => {
 
 
 const adminprefix = "!";
-const developers = ['518468852976451614'];
+const developers = ['537735144736555028'];
 
 console.log("FOIL");
 
@@ -113,4 +113,4 @@ if (message.content.startsWith(adminprefix + 'avatar')) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env."NTM3NzM1MTQ0NzM2NTU1MDI4.XLjrSg.x4jkQtgP3dwxoWQHLEI2OMduUdU");
